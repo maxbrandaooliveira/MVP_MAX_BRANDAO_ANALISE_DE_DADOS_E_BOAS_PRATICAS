@@ -1,1 +1,3 @@
+https://colab.research.google.com/github/maxbrandaooliveira/MVP_MAX_BRANDAO_ANALISE_DE_DADOS_E_BOAS_PRATICAS/blob/main/MVP_Max_Brand%C3%A3o_de_Oliveira_An%C3%A1lise_de_Dados_e_Boas_Pr%C3%A1ticas.ipynb
+
 # MVP_MAX_BRANDAO_ANALISE_DE_DADOS_E_BOAS_PRATICAS
